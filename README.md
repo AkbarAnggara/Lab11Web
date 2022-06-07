@@ -9,3 +9,4 @@ Berikut adalah tugas untuk praktikum 11 pertemuan 12<br>
 ![Screenshot_1.png](Pic/Screenshot_1.png)<br>
 
 ### Pengerjaan
+1. Buka xampp control lalu kalian klik start pada 
