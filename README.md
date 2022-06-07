@@ -52,7 +52,7 @@ Berikut adalah tampilannya<br>
 ![Screenshot_16.png](Pic/Screenshot_16.png)<br>
 17. Selanjutnya kita akan membuat layout CSS, buat folder baru template pada folder Views<br>
 18. Lalu buat file baru header.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/header.php)<br>
-19. Selanjut kalian juga buat file baru footer.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/footer.php)<br>
+19. Selanjutnya kalian juga buat file baru footer.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/footer.php)<br>
 20. Selanjutnya kita edit pada bagian about.php menjadi seperti berikut<br>
 ![Screenshot_23.png](Pic/Screenshot_23.png)<br>
 Maka tampilan akhirnya akan menjadi berikut<br>
