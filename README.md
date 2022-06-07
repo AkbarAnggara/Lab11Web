@@ -20,7 +20,7 @@ Berikut adalah tugas untuk praktikum 11 pertemuan 12<br>
 ![Screenshot_4.png](Pic/Screenshot_4.png)<br>
 6. Kalian buka CMD dengan cara buka kembali xampp control lalu pilih bagian Shell, selanjutnya kalian tulis seperti dibawah ini<br>
 ![Screenshot_5.png](Pic/Screenshot_5.png)<br>
-7. Selanjutnya kalian tulis php shark maka akan muncul seperti dibawah ini<br>
+7. Selanjutnya kalian tulis php spark maka akan muncul seperti dibawah ini<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 8. Selanjutnya kita akan mengaktifkan fitur debugging untuk mengatahui pesan error, jika belum aktif maka tampilannya akan seperti dibawah ini<br>
 ![Screenshot_8.png](Pic/Screenshot_8.png)<br>
