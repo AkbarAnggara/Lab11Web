@@ -50,4 +50,24 @@ Setelah itu rubah bagian about di page.php pada folder Controllers seperti dibaw
 ![Screenshot_25.png](Pic/Screenshot_25.png)<br>
 Berikut adalah tampilannya<br>
 ![Screenshot_16.png](Pic/Screenshot_16.png)<br>
-17. Selanjutnya kita akan membuat layout CSS 
+17. Selanjutnya kita akan membuat layout CSS, buat folder baru template pada folder Views<br>
+18. Lalu buat file baru header.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/header.php)<br>
+19. Selanjut kalian juga buat file baru footer.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/footer.php)<br>
+20. Selanjutnya kita edit pada bagian about.php menjadi seperti berikut<br>
+![Screenshot_23.png](Pic/Screenshot_23.png)<br>
+Maka tampilan akhirnya akan menjadi berikut<br>
+![Screenshot_19.png](Pic/Screenshot_19.png)<br>
+
+### Jawaban Pertanyaan & Tugas
+Berikut adalah tampilan pada semua link navigasi header<br>
+1. About<br>
+![Screenshot_19.png](Pic/Screenshot_19.png)<br>
+2. Article<br>
+![Screenshot_20.png](Pic/Screenshot_20.png)<br>
+3. Contact<br>
+![Screenshot_18.png](Pic/Screenshot_18.png)<br>
+
+Sekian dari saya<br>
+Terimakasih banyak sudah membaca<br>
+
+#### By: Bangkit Akbar Anggara - 312010148 - TI.20.B.1
