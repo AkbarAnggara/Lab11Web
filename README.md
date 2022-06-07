@@ -13,7 +13,7 @@ Berikut adalah tugas untuk praktikum 11 pertemuan 12<br>
 ![Screenshot_3.png](Pic/Screenshot_3.png)<br>
 2. Lalu kalian hapus tanda (;) pada bagian extension=intl seperti berikut<br>
 ![Screenshot_2.png](Pic/Screenshot_2.png)<br>
-3. Jika sudah kalian bisa download CodeIgneter4 atau kalian bisa click disamping [Click Here](https://codeigniter.com/download)<br>
+3. Jika sudah kalian bisa download CodeIgniter4 atau kalian bisa click disamping [Click Here](https://codeigniter.com/download)<br>
 4. Setelah kalian download, selanjutnya kalian extract dan rename menjadi ci4 seperti dibawah ini<br>
 ![Screenshot_21.png](Pic/Screenshot_21.png)<br>
 5. Setelah kalian extract pindahkan kedalam folder htdocs > lab11_ci, setelah itu kalian buka localhost/lab11ci/ci4/public<br>
