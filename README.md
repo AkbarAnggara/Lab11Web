@@ -16,7 +16,7 @@ Berikut adalah tugas untuk praktikum 11 pertemuan 12<br>
 3. Jika sudah kalian bisa download CodeIgniter4 atau kalian bisa click disamping [Click Here](https://codeigniter.com/download)<br>
 4. Setelah kalian download, selanjutnya kalian extract dan rename menjadi ci4 seperti dibawah ini<br>
 ![Screenshot_21.png](Pic/Screenshot_21.png)<br>
-5. Setelah kalian extract pindahkan kedalam folder htdocs > lab11_ci, setelah itu kalian buka localhost/lab11ci/ci4/public<br>
+5. Setelah kalian extract pindahkan kedalam folder htdocs > lab11_ci, setelah itu kalian buka localhost/lab11_ci/ci4/public<br>
 ![Screenshot_4.png](Pic/Screenshot_4.png)<br>
 6. Kalian buka CMD dengan cara buka kembali xampp control lalu pilih bagian Shell, selanjutnya kalian tulis seperti dibawah ini<br>
 ![Screenshot_5.png](Pic/Screenshot_5.png)<br>
