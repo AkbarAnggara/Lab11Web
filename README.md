@@ -24,7 +24,7 @@ Berikut adalah tugas untuk praktikum 11 pertemuan 12<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 8. Selanjutnya kita akan mengaktifkan fitur debugging untuk mengatahui pesan error, jika belum aktif maka tampilannya akan seperti dibawah ini<br>
 ![Screenshot_8.png](Pic/Screenshot_8.png)<br>
-9. Untuk mengaktifkannya kalian buka env, lalu kalian hapus (#) pada CI_ENVIRONMENT dan ubah juga menjadi development seperti berikut<br>
+9. Untuk mengaktifkannya kalian buka env ubah atau rename menjadi .env, lalu kalian hapus (#) pada CI_ENVIRONMENT dan ubah juga menjadi development seperti berikut<br>
 ![Screenshot_7.png](Pic/Screenshot_7.png)<br>
 10. Lalu coba kita hapus tanda (;) pada Home.php maka akan memunculkan info terjadi kesalahan pada bagian tertentu seperti dibawah ini<br>
 ![Screenshot_9.png](Pic/Screenshot_9.png)<br>
