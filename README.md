@@ -13,18 +13,18 @@ Berikut adalah tugas untuk praktikum 11 pertemuan 12<br>
 ![Screenshot_3.png](Pic/Screenshot_3.png)<br>
 2. Lalu kalian hapus tanda (;) pada bagian extension=intl seperti berikut<br>
 ![Screenshot_2.png](Pic/Screenshot_2.png)<br>
-3. Jika sudah kalian bisa download CodeIgneter4 atau kalian bisa click disamping [Click Here](https://codeigniter.com/download)<br>
+3. Jika sudah kalian bisa download CodeIgniter4 atau kalian bisa click disamping [Click Here](https://codeigniter.com/download)<br>
 4. Setelah kalian download, selanjutnya kalian extract dan rename menjadi ci4 seperti dibawah ini<br>
 ![Screenshot_21.png](Pic/Screenshot_21.png)<br>
-5. Setelah kalian extract pindahkan kedalam folder htdocs > lab11_ci, setelah itu kalian buka localhost/lab11ci/ci4/public<br>
+5. Setelah kalian extract pindahkan kedalam folder htdocs > lab11_ci, setelah itu kalian buka localhost/lab11_ci/ci4/public<br>
 ![Screenshot_4.png](Pic/Screenshot_4.png)<br>
 6. Kalian buka CMD dengan cara buka kembali xampp control lalu pilih bagian Shell, selanjutnya kalian tulis seperti dibawah ini<br>
 ![Screenshot_5.png](Pic/Screenshot_5.png)<br>
-7. Selanjutnya kalian tulis php shark maka akan muncul seperti dibawah ini<br>
+7. Selanjutnya kalian tulis php spark maka akan muncul seperti dibawah ini<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 8. Selanjutnya kita akan mengaktifkan fitur debugging untuk mengatahui pesan error, jika belum aktif maka tampilannya akan seperti dibawah ini<br>
 ![Screenshot_8.png](Pic/Screenshot_8.png)<br>
-9. Untuk mengaktifkannya kalian buka env, lalu kalian hapus (#) pada CI_ENVIRONMENT dan ubah juga menjadi development seperti berikut<br>
+9. Untuk mengaktifkannya kalian buka env ubah atau rename menjadi .env, lalu kalian hapus (#) pada CI_ENVIRONMENT dan ubah juga menjadi development seperti berikut<br>
 ![Screenshot_7.png](Pic/Screenshot_7.png)<br>
 10. Lalu coba kita hapus tanda (;) pada Home.php maka akan memunculkan info terjadi kesalahan pada bagian tertentu seperti dibawah ini<br>
 ![Screenshot_9.png](Pic/Screenshot_9.png)<br>
@@ -52,7 +52,7 @@ Berikut adalah tampilannya<br>
 ![Screenshot_16.png](Pic/Screenshot_16.png)<br>
 17. Selanjutnya kita akan membuat layout CSS, buat folder baru template pada folder Views<br>
 18. Lalu buat file baru header.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/header.php)<br>
-19. Selanjut kalian juga buat file baru footer.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/footer.php)<br>
+19. Selanjutnya kalian juga buat file baru footer.php atau kalian bisa klik disamping [Click Here](lab11_ci/ci4/app/Views/template/footer.php)<br>
 20. Selanjutnya kita edit pada bagian about.php menjadi seperti berikut<br>
 ![Screenshot_23.png](Pic/Screenshot_23.png)<br>
 Maka tampilan akhirnya akan menjadi berikut<br>
